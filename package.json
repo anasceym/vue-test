@@ -1,0 +1,25 @@
+{
+  "name": "vue-test",
+  "version": "1.0.0",
+  "description": "Just for learning vue",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4",
+    "vue": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anasceym/vue-test.git"
+  },
+  "author": "anasceym",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anasceym/vue-test/issues"
+  },
+  "homepage": "https://github.com/anasceym/vue-test"
+}
